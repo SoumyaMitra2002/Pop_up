@@ -1,6 +1,4 @@
-body{
-    background-color: green;
-}
+
 .popup{
    transform: scale(0.5);
    visibility: hidden;
